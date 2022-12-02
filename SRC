@@ -1,0 +1,6 @@
+touch 01-RUN.sh
+nano 01-RUN.sh
+#!/bin/bash
+echo Hola Mundo
+sleep 3s
+cd /home/oscarguerreroserrano
